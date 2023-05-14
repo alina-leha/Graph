@@ -1,0 +1,116 @@
+﻿  Graph_1_Task.cpp
+D:\ConsoleApplication19\Task2.h(49,2): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ConsoleApplication19\Task2.h(42): message : во время компиляции функции-члена класс шаблон "void TaskTwo<TVertex,TEdge>::prim(int)"
+D:\ConsoleApplication19\Graph_1_Task.cpp(627): message : выполняется компиляция ссылки на экземпляр шаблон функции "void TaskTwo<TVertex,TEdge>::prim(int)"
+D:\ConsoleApplication19\Graph_1_Task.cpp(623): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "TaskTwo<TVertex,TEdge>"
+D:\ConsoleApplication19\Task2.h(51,2): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ConsoleApplication19\Task2.h(61,2): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ConsoleApplication19\GraphForm.h(415,16): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ConsoleApplication19\GraphForm.h(411): message : во время компиляции функции-члена класс шаблон "bool GraphListForm<EdgeT>::EdgeIterator::operator ++(void)"
+          with
+          [
+              EdgeT=TEdge
+          ]
+D:\ConsoleApplication19\Graph.h(219): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool GraphListForm<EdgeT>::EdgeIterator::operator ++(void)"
+          with
+          [
+              EdgeT=TEdge
+          ]
+D:\ConsoleApplication19\Graph.h(233): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "GraphListForm<EdgeT>::EdgeIterator"
+          with
+          [
+              EdgeT=TEdge
+          ]
+D:\ConsoleApplication19\Graph.h(229): message : во время компиляции функции-члена класс шаблон "bool Graph<TVertex,TEdge>::EdgeIterator::toend(void)"
+D:\ConsoleApplication19\Graph_1_Task.cpp(474): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool Graph<TVertex,TEdge>::EdgeIterator::toend(void)"
+D:\ConsoleApplication19\Graph_1_Task.cpp(83): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<TVertex,TEdge>::EdgeIterator"
+D:\ConsoleApplication19\GraphForm.h(422,14): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ConsoleApplication19\GraphForm.h(394,2): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ConsoleApplication19\GraphForm.h(392): message : во время компиляции функции-члена класс шаблон "bool GraphListForm<EdgeT>::EdgeIterator::toend(void)"
+          with
+          [
+              EdgeT=TEdge
+          ]
+D:\ConsoleApplication19\Graph.h(233): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool GraphListForm<EdgeT>::EdgeIterator::toend(void)"
+          with
+          [
+              EdgeT=TEdge
+          ]
+D:\ConsoleApplication19\GraphForm.h(377,2): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ConsoleApplication19\GraphForm.h(376): message : во время компиляции функции-члена класс шаблон "bool GraphListForm<EdgeT>::EdgeIterator::begin(void)"
+          with
+          [
+              EdgeT=TEdge
+          ]
+D:\ConsoleApplication19\Graph.h(212): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool GraphListForm<EdgeT>::EdgeIterator::begin(void)"
+          with
+          [
+              EdgeT=TEdge
+          ]
+D:\ConsoleApplication19\GraphForm.h(149,16): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ConsoleApplication19\GraphForm.h(145): message : во время компиляции функции-члена класс шаблон "bool GraphMatrixForm<EdgeT>::EdgeIterator::operator ++(void)"
+          with
+          [
+              EdgeT=TEdge
+          ]
+D:\ConsoleApplication19\Graph.h(217): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool GraphMatrixForm<EdgeT>::EdgeIterator::operator ++(void)"
+          with
+          [
+              EdgeT=TEdge
+          ]
+D:\ConsoleApplication19\Graph.h(231): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "GraphMatrixForm<EdgeT>::EdgeIterator"
+          with
+          [
+              EdgeT=TEdge
+          ]
+D:\ConsoleApplication19\GraphForm.h(150,16): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ConsoleApplication19\GraphForm.h(115,2): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ConsoleApplication19\GraphForm.h(114): message : во время компиляции функции-члена класс шаблон "bool GraphMatrixForm<EdgeT>::EdgeIterator::begin(void)"
+          with
+          [
+              EdgeT=TEdge
+          ]
+D:\ConsoleApplication19\Graph.h(209): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool GraphMatrixForm<EdgeT>::EdgeIterator::begin(void)"
+          with
+          [
+              EdgeT=TEdge
+          ]
+D:\ConsoleApplication19\GraphForm.h(116,2): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ConsoleApplication19\GraphForm.h(217,15): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ConsoleApplication19\GraphForm.h(213): message : во время компиляции функции-члена класс шаблон "bool GraphMatrixForm<EdgeT>::OutputEdgeIterator::operator ++(void)"
+          with
+          [
+              EdgeT=TEdge
+          ]
+D:\ConsoleApplication19\Graph.h(338): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool GraphMatrixForm<EdgeT>::OutputEdgeIterator::operator ++(void)"
+          with
+          [
+              EdgeT=TEdge
+          ]
+D:\ConsoleApplication19\Graph.h(345): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "GraphMatrixForm<EdgeT>::OutputEdgeIterator"
+          with
+          [
+              EdgeT=TEdge
+          ]
+D:\ConsoleApplication19\Graph.h(343): message : во время компиляции функции-члена класс шаблон "bool Graph<TVertex,TEdge>::OutputEdgeIterator::toend(void)"
+D:\ConsoleApplication19\Graph_1_Task.cpp(559): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool Graph<TVertex,TEdge>::OutputEdgeIterator::toend(void)"
+D:\ConsoleApplication19\Graph_1_Task.cpp(85): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<TVertex,TEdge>::OutputEdgeIterator"
+D:\ConsoleApplication19\GraphForm.h(187,2): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ConsoleApplication19\GraphForm.h(186): message : во время компиляции функции-члена класс шаблон "bool GraphMatrixForm<EdgeT>::OutputEdgeIterator::begin(void)"
+          with
+          [
+              EdgeT=TEdge
+          ]
+D:\ConsoleApplication19\Graph.h(332): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool GraphMatrixForm<EdgeT>::OutputEdgeIterator::begin(void)"
+          with
+          [
+              EdgeT=TEdge
+          ]
+D:\ConsoleApplication19\Task2.h(116,31): error C2039: "str1": не является членом "Graph<TVertex,TEdge>::OutputEdgeIterator".
+D:\ConsoleApplication19\Graph.h(301): message : см. объявление "Graph<TVertex,TEdge>::OutputEdgeIterator"
+D:\ConsoleApplication19\Task2.h(88): message : во время компиляции функции-члена класс шаблон "void TaskTwo<TVertex,TEdge>::search(void)"
+D:\ConsoleApplication19\Task2.h(44): message : выполняется компиляция ссылки на экземпляр шаблон функции "void TaskTwo<TVertex,TEdge>::search(void)"
+D:\ConsoleApplication19\Task2.h(118,31): error C2039: "str2": не является членом "Graph<TVertex,TEdge>::OutputEdgeIterator".
+D:\ConsoleApplication19\Graph.h(301): message : см. объявление "Graph<TVertex,TEdge>::OutputEdgeIterator"
+D:\ConsoleApplication19\Task2.h(120,31): error C2039: "str3": не является членом "Graph<TVertex,TEdge>::OutputEdgeIterator".
+D:\ConsoleApplication19\Graph.h(301): message : см. объявление "Graph<TVertex,TEdge>::OutputEdgeIterator"
